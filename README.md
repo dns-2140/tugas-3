@@ -1,7 +1,5 @@
 # Personal Website - dns2140
 
-![Website Preview](./preview.jpg) <!-- Add a screenshot later -->
-
 A responsive personal portfolio website built with Bootstrap 5, showcasing my projects and professional information.
 
 ## Features
