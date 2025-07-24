@@ -36,10 +36,25 @@ body {
   color: white;
 }
 
+ul li {
+  border-bottom: 1px solid transparent;
+  transition: all 0.5s ease;
+}
+
+ul li:hover {
+  border-color: white;
+}
+
 .btn-custom {
   background-color: var(--blue-primary);
   color: white;
   border-radius: 0.25rem;
+  transition: all 0.5s ease;
+}
+
+.btn-custom:hover {
+  border: 1px solid var(--blue-primary); /* Darker blue */
+  color: var(--blue-primary);
 }
 
 .hero-section {
