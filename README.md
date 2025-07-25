@@ -11,6 +11,7 @@ A responsive personal portfolio website built with Bootstrap 5, showcasing my pr
   - Hero section with call-to-action
   - About/Biodata section with personal details
   - Portfolio section showcasing projects
+  - Clickable portfolio items that launch detailed project views
 - **Performance Optimized**: Lazy-loaded images for better performance
 
 ## Technologies Used
